@@ -18,22 +18,7 @@
     }
 }
 
-// .modal {
-//     position: absolute;
-//     top: 50%;
-//     left: 50%;
-//     transform: translate(-50%, -50%) scale(1);
-//     width: 528px;
-//     height: 581px;
-//     padding: 40px;
-//     background-color: $bgPrimaryColor;
-//     border-radius: 4px;
-//     box-shadow: $modalShadow;
-//     transition: transform $mainTransition;
-//     .backdrop.is-hidden & {
-//         transform: translate(-50%, -50%) scale(0.7);
-//     }
-// }
+
 
 .modal {
     position: absolute;
